@@ -66,7 +66,7 @@ class _IamportWebViewState extends State<IamportWebView> {
     return Scaffold(
       appBar: widget.appBar ??
           AppBar(
-            title: Text('아임포트 $typeText'),
+            title: Text('Ggumim 아임포트 $typeText'),
             backgroundColor: IamportWebView.primaryColor,
           ),
       body: IndexedStack(
